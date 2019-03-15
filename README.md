@@ -1,3 +1,5 @@
+![alt text](http://i64.tinypic.com/dpg4t0.jpg)
+
 CHURN: How to improve customer loyalty with Tableau and Machine Learning
 
 Summary:
