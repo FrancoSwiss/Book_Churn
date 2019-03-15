@@ -21,7 +21,8 @@ Chapters:
 - Imbalanced datasets in the real-world.
 - The art and science of dealing with outliers.
 - Cardinality and rare values.
-- Missing values at random? MCAR.
+- Missing values? How to deal best with MAR/MCAR.
+
 - Imputation: when to use mean and median?
 - Label Encoding vs. Hot Encoding
 - Log loss (a.k.a. cross-entropy).
