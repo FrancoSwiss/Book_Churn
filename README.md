@@ -1,6 +1,5 @@
 ![alt text](http://i66.tinypic.com/n3olc7.jpg)
 
-CHURN: How to improve customer loyalty with Tableau and Machine Learning
 
 Summary:
 "Machine Learning can help improving customer loyalty and revenues. But without first analyzing your customers, Machine Learning is
