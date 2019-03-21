@@ -1,0 +1,36 @@
+TABEL OF CONTENTS
+
+- A Churn Analytics Dashboard in Tableau.
+- LOD in Tableau: Fixed, Inclusive and Exlclusive.
+
+- How to define a customer being lost?
+- How to create a cohort analysis?
+- What is our customer retention for the last 12 months?
+- Are our customers loyal (cohort analysis)?
+- Does customer profitability add value in our analysis?
+
+- What does Gaussian look like?
+- Distribution: Germany vs. Switzerland or Gauss vs. Benoulli.
+
+- According to the algorithm, what are the reasons customers leave?
+- Kaggle vs. the real world.
+
+- Two algorithms we can directly integrate in Tableau: Decision Tree
+- Should we care about cardinality and rare values?
+
+- Missing values? A Kaggle trick to deal with MCAR/MAR.
+- How to label outliers and get away with it.
+- Normalization vs. Standardization.
+- Linear assumptions: a bit of statistics.
+
+- Log loss (a.k.a. cross-entropy).
+- A practical way to determine important features for non-linear problems.
+- Gini impurity vs. Entropy: should you care?
+- When churn prediction fails us – hard lessons.
+- Label Encoding vs. Hot Encoding
+
+- Error handling for Machine Learning in Tableau.
+- How to calculate probabilities with a Decision Tree?
+- How to deal with imbalanced datasets?
+- How to avoid overfitting in practice? 
+
